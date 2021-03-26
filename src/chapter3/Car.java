@@ -19,7 +19,7 @@ public class Car {
 	
 	public Car() {
 		
-		this(3,5,0.1f,3.0);
+		this(3,5,0.2f,0.1);
 		//자동차의 색을 첫번째 색으로 지정
 		color =1;
 		//바퀴의 개수를 4개로지정

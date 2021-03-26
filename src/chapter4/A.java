@@ -1,6 +1,7 @@
 package chapter4;
 //모든 클래스의 최상위 보무 클래스는 object 클래스가 된다
-//상속을 받지 않는 모든 클래스는 object 클래스를 자동으로 상속 받는다.
+//상속을 받지 않는 모든 클래스는 object 클래스를 자동으로 상속 
+받는다.
 public class A {
 	public int num1;
 	private int num2;
